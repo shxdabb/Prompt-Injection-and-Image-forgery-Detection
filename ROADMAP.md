@@ -1,5 +1,4 @@
-# Project Some Final ****
-
+Roadmap for this project : 
 How to proceed : 
 1. Model will take text/image as input and classify it as forged or prompt injected
 2. we will be using pre trained models like BERT/RoBERTa, these are NLP models pre trained for prompt injection
@@ -22,3 +21,4 @@ Output: Safe / Forged
 
 7.Then use dataset and training
 8. Evaluation
+
